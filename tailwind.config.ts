@@ -9,9 +9,18 @@ const config: Config = {
   theme: {
     extend: {
       backgroundImage: {
-        "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
-        "gradient-conic":
-          "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
+        "text-gradient": "linear-gradient(90deg, #fff, #FF0fff)",
+      },
+      fontFamily: {
+        sans: ["var(--font-geist-sans)"],
+      },
+      colors: {
+        foreground: "#000",
+        background: "#F5F5F5",
+        primary: "#000",
+        secondary: "#fff",
+        accent: "#044566",
+        accent2: "#11677D",
       },
     },
   },

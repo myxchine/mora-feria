@@ -1,0 +1,462 @@
+{
+  "jets": [
+    {
+      "name": "Gulfstream G650",
+      "video_url": "https://www.youtube.com/embed/aAs6RI6YxlI?rel=0&showinfo=0&autoplay=0",
+      "description": " The Gulfstream G650 is a long-range private jet that can fly nonstop for over 7,000 miles, making it one of the most capable jets on the market. It also has a spacious and luxurious interior, making it a popular choice for travelers who value comfort and style.",
+      "key_characteristics": [
+        "Wingspan: 93.5 feet (28.5 meters)",
+        "Top speed: 704 miles per hour (1,128 kilometers per hour)",
+        "Cruise speed: 561 miles per hour (903 kilometers per hour)",
+        "Weight: approximately 100,000 pounds (45,359 kilograms)",
+        "Length: 92.8 feet (28.2 meters)",
+        "Engine type: Two Rolls-Royce BR725 turbofan engines",
+        "Number of seats: Typically configured to seat up to 18 passengers, but can be customized to seat up to 19 passengers."
+      ],
+      "range_miles": "7000",
+      "passengers": "14",
+      "estimated_market_price": "$40 - $60 million",
+      "manufacturer_website": "https://www.gulfstream.com/"
+    },
+    {
+      "name": "Bombardier Global 7500",
+      "video_url": "https://www.youtube.com/embed/tE6XGVozVt4?rel=0&showinfo=0&autoplay=0",
+      "description": " The Global 7500 is a long-range private jet with a range of over 7,700 miles, making it one of the most capable jets on the market. It also has a spacious and luxurious interior, as well as a number of advanced technology and safety features.",
+      "key_characteristics": [
+        "Wingspan: 93.8 feet (28.6 meters)",
+        "Top speed: 686 miles per hour (1,106 kilometers per hour)",
+        "Cruise speed: 586 miles per hour (943 kilometers per hour)",
+        "Weight: approximately 100,000 pounds (45,359 kilograms)",
+        "Length: 92.8 feet (28.2 meters)",
+        "Engine type: Two General Electric Passport turbofan engines",
+        "Number of seats: Typically configured to seat up to 19 passengers, but can be customized to seat up to 20 passengers."
+      ],
+      "range_miles": "7700",
+      "passengers": "19",
+      "estimated_market_price": "$75 - $80 million",
+      "manufacturer_website": "https://www.bombardier.com/"
+    },
+    {
+      "name": "Dassault Falcon 7X",
+      "video_url": "https://www.youtube.com/embed/wpGffvDJqvg?rel=0&showinfo=0&autoplay=0",
+      "description": " The Falcon 7X is a long-range private jet with a range of over 6,000 miles, making it well-suited for long-distance travel. It has a spacious and luxurious interior, as well as advanced automation systems that allow for single-pilot operation.",
+      "key_characteristics": [
+        "Wingspan: 93.3 feet (28.4 meters)",
+        "Top speed: 614 miles per hour (988 kilometers per hour)",
+        "Cruise speed: 561 miles per hour (903 kilometers per hour)",
+        "Weight: approximately 80,000 pounds (36,287 kilograms)",
+        "Length: 87.7 feet (26.7 meters)",
+        "Engine type: Three Snecma Silvercrest turbofan engines",
+        "Number of seats: Typically configured to seat up to 12 passengers, but can be customized to seat up to 14 passengers."
+      ],
+      "range_miles": "6450",
+      "passengers": "12",
+      "estimated_market_price": "$20 - $30 million",
+      "manufacturer_website": "https://www.dassaultfalcon.com/"
+    },
+    {
+      "name": "Cessna Citation X",
+      "video_url": "https://www.youtube.com/embed/8UjN0oxRv8A?rel=0&showinfo=0&autoplay=0",
+      "description": " The Citation X is a high-performance private jet that is capable of flying at speeds of up to 604 mph. It has a range of over 3,000 miles, making it well-suited for medium-range trips.",
+      "key_characteristics": [
+        "Wingspan: 74.9 feet (22.8 meters)",
+        "Top speed: 604 miles per hour (972 kilometers per hour)",
+        "Cruise speed: 541 miles per hour (870 kilometers per hour)",
+        "Weight: approximately 34,000 pounds (15,422 kilograms)",
+        "Length: 78.9 feet (24.1 meters)",
+        "Engine type: Two Rolls-Royce AE 3007C2 turbofan engines",
+        "Number of seats: Typically configured to seat up to 10 passengers, but can be customized to seat up to 12 passengers.",
+        "Wingspan: 63.1 feet (19.2 meters)",
+        "Top speed: 596 miles per hour (959 kilometers per hour)",
+        "Cruise speed: 541 miles per hour (870 kilometers per hour)",
+        "Weight: approximately 22,000 pounds (9,979 kilograms)",
+        "Length: 75.6 feet (23 meters)",
+        "Engine type: Two Honeywell HTF7500E turbofan engines",
+        "Number of seats: Typically configured to seat up to nine passengers, but can be customized to seat up to 13 passengers.",
+        "Wingspan: 111.7 feet (34 meters)",
+        "Top speed: 614 miles per hour (988 kilometers per hour)",
+        "Cruise speed: 567 miles per hour (912 kilometers per hour)",
+        "Weight: approximately 128,000 pounds (58,060 kilograms)",
+        "Length: 117.9 feet (36 meters)",
+        "Engine type: Two CFM International LEAP-1A engines or two Pratt & Whitney PW1100G engines",
+        "Number of seats: Typically configured to seat up to 19 passengers, but can be customized to seat up to 50 passengers."
+      ],
+      "range_miles": "",
+      "passengers": "",
+      "estimated_market_price": ""
+    },
+    {
+      "name": "Embraer Legacy 500",
+      "video_url": "https://www.youtube.com/embed/261GmK6ByTE?rel=0&showinfo=0&autoplay=0",
+      "description": " The Legacy 500 is a mid-sized private jet with a range of over 3,000 miles, making it well-suited for medium-range trips. It has a spacious and luxurious interior, as well as advanced automation systems that allow for single-pilot operation.",
+      "key_characteristics": [
+        "Wingspan: 63.1 feet (19.2 meters)",
+        "Top speed: 596 miles per hour (959 kilometers per hour)",
+        "Cruise speed: 541 miles per hour (870 kilometers per hour)",
+        "Weight: approximately 22,000 pounds (9,979 kilograms)",
+        "Length: 75.6 feet (23 meters)",
+        "Engine type: Two Honeywell HTF7500E turbofan engines",
+        "Number of seats: Typically configured to seat up to nine passengers, but can be customized to seat up to 13 passengers."
+      ],
+      "range_miles": "3125",
+      "passengers": "8",
+      "estimated_market_price": "$8 - $12 million",
+      "manufacturer_website": "https://www.embraer.com/"
+    },
+    {
+      "name": "Airbus ACJ320neo",
+      "video_url": "https://www.youtube.com/embed/Mnxw3TL5cAY?rel=0&showinfo=0&autoplay=0",
+      "description": " The ACJ320neo is a long-range private jet with a range of over 6,000 miles, making it well-suited for long-distance travel. It has a spacious and luxurious interior, as well as advanced automation systems that allow for single-pilot operation.",
+      "key_characteristics": [
+        "Wingspan: 111.7 feet (34 meters)",
+        "Top speed: 614 miles per hour (988 kilometers per hour)",
+        "Cruise speed: 567 miles per hour (912 kilometers per hour)",
+        "Weight: approximately 128,000 pounds (58,060 kilograms)",
+        "Length: 117.9 feet (36 meters)",
+        "Engine type: Two CFM International LEAP-1A engines or two Pratt & Whitney PW1100G engines",
+        "Number of seats: Typically configured to seat up to 19 passengers, but can be customized to seat up to 50 passengers."
+      ],
+      "range_miles": "5800",
+      "passengers": "19",
+      "estimated_market_price": "$60 - $80 million",
+      "manufacturer_website": "https://www.airbus.com/"
+    },
+    {
+      "name": "Gulfstream G280",
+      "video_url": "https://www.youtube.com/embed/SqXCIOzvRrs?rel=0&showinfo=0&autoplay=0",
+      "description": " The G280 is a mid-sized private jet with a range of over 3,600 miles, making it well-suited for medium-range trips. It has a spacious and luxurious interior, as well as advanced automation systems that allow for single-pilot operation.",
+      "key_characteristics": [],
+      "range_miles": "3600",
+      "passengers": "8 - 10",
+      "estimated_market_price": "$10 - $20 million",
+      "manufacturer_website": "https://www.gulfstream.com/"
+    },
+    {
+      "name": "Bombardier Challenger 350",
+      "description": " The Challenger 350 is a mid-sized private jet with a range of over 3,200 miles, making it well-suited for medium-range trips. It has a spacious and luxurious interior, as well as advanced automation systems that allow for single-pilot operation.",
+      "key_characteristics": [],
+      "range_miles": "3200",
+      "passengers": "8 - 9",
+      "estimated_market_price": "$9 - $12 million",
+      "manufacturer_website": "https://www.bombardier.com/"
+    },
+    {
+      "name": "Embraer Phenom 300",
+      "video_url": "https://www.youtube.com/embed/t7htDs0V5fc?rel=0&showinfo=0&autoplay=0",
+      "description": " The Phenom 300 is a mid-sized private jet with a range of over 2,300 miles, making it well-suited for medium-range trips. It has a spacious and luxurious interior, as well as advanced automation systems that allow for single-pilot operation.",
+      "key_characteristics": [],
+      "range_miles": "2170",
+      "passengers": "8",
+      "estimated_market_price": "$7 - $10 million",
+      "manufacturer_website": "https://www.embraer.com/"
+    },
+    {
+      "name": "Hawker Beechcraft 4000",
+      "video_url": "https://www.youtube.com/embed/Fr_Y0rMHILc?rel=0&showinfo=0&autoplay=0",
+      "description": " The Hawker Beechcraft 4000 is a mid-sized private jet with a range of over 3,000 miles, making it well-suited for medium-range trips. It has a spacious and luxurious interior, as well as advanced automation systems that allow for single-pilot operation.",
+      "key_characteristics": [],
+      "range_miles": "3520",
+      "passengers": "8 - 10",
+      "estimated_market_price": "$5 - $7 million",
+      "manufacturer_website": "https://www.txtav.com/"
+    },
+    {
+      "name": "Pilatus PC-12",
+      "video_url": "https://www.youtube.com/embed/Prns7kBaKpg?rel=0&showinfo=0&autoplay=0",
+      "description": " The Pilatus PC-12 is a single-engine turboprop with a range of over 1,500 miles, making it well-suited for short- to medium-range trips. It has a spacious and luxurious interior, as well as advanced automation systems that allow for single-pilot operation.",
+      "key_characteristics": [],
+      "range_miles": "1800",
+      "passengers": "9",
+      "estimated_market_price": "$2 - $4 million",
+      "manufacturer_website": "https://www.pilatus-aircraft.com/"
+    },
+    {
+      "name": "Beechcraft King Air",
+      "video_url": "https://www.youtube.com/embed/NxZMLYbg0-o?rel=0&showinfo=0&autoplay=0",
+      "description": " The Beechcraft King Air is a twin-engine turboprop with a range of over 1,500 miles, making it well-suited for short- to medium-range trips. It has a spacious and luxurious interior, as well as advanced automation systems that allow for single-pilot operation.",
+      "key_characteristics": [],
+      "range_miles": "1600",
+      "passengers": "9",
+      "estimated_market_price": "$2 - $4 million",
+      "manufacturer_website": "https://www.txtav.com/"
+    },
+    {
+      "name": "Cessna Citation CJ3",
+      "video_url": "https://www.youtube.com/embed/1naeCnd7uDI?rel=0&showinfo=0&autoplay=0",
+      "description": " The Citation CJ3 is a mid-sized private jet with a range of over 2,000 miles, making it well-suited for medium-range trips. It has a spacious and luxurious interior, as well as advanced automation systems that allow for single-pilot operation.",
+      "key_characteristics": [],
+      "range_miles": "1984",
+      "passengers": "6 - 7",
+      "estimated_market_price": "$3 - $5 million",
+      "manufacturer_website": "https://www.txtav.com/"
+    },
+    {
+      "name": "Learjet 60",
+      "video_url": "https://www.youtube.com/embed/3B-xmv4rSIU?rel=0&showinfo=0&autoplay=0",
+      "description": " The Learjet 60 is a mid-sized private jet with a range of over 2,000 miles, making it well-suited for medium-range trips. It has a spacious and luxurious interior, as well as advanced automation systems that allow for single-pilot operation.",
+      "key_characteristics": [],
+      "range_miles": "2040",
+      "passengers": "8",
+      "estimated_market_price": "$2 - $4 million",
+      "manufacturer_website": "https://www.txtav.com/"
+    },
+    {
+      "name": "Citation Excel",
+      "video_url": "https://www.youtube.com/embed/3WlaW5DStvQ?rel=0&showinfo=0&autoplay=0",
+      "description": " The Citation Excel is a mid-sized private jet with a range of over 2,000 miles, making it well-suited for medium-range trips. It has a spacious and luxurious interior, as well as advanced automation systems that allow for single-pilot operation.",
+      "key_characteristics": [],
+      "range_miles": "1800",
+      "passengers": "7",
+      "estimated_market_price": "$2.5 - $5 million",
+      "manufacturer_website": "https://www.txtav.com/"
+    },
+    {
+      "name": "Embraer Phenom 100",
+      "video_url": "https://www.youtube.com/embed/KV0hFGeXY2g?rel=0&showinfo=0&autoplay=0",
+      "description": " The Phenom 100 is a light jet with a range of over 1,500 miles, making it well-suited for short- to medium-range trips. It has a spacious and luxurious interior, as well as advanced automation systems that allow for single-pilot operation.",
+      "key_characteristics": [],
+      "range_miles": "1178",
+      "passengers": "4",
+      "estimated_market_price": "$3.5 - $5 million",
+      "manufacturer_website": "https://www.embraer.com/"
+    },
+    {
+      "name": "Cessna Citation CJ2",
+      "video_url": "https://www.youtube.com/embed/CMmL6k5fgh4?rel=0&showinfo=0&autoplay=0",
+      "description": " The Citation CJ2 is a mid-sized private jet with a range of over 1,800 miles, making it well-suited for medium-range trips. It has a spacious and luxurious interior, as well as advanced automation systems that allow for single-pilot operation.",
+      "key_characteristics": [],
+      "range_miles": "1535",
+      "passengers": "6",
+      "estimated_market_price": "$2 - $4 million",
+      "manufacturer_website": "https://www.txtav.com/"
+    },
+    {
+      "name": "Cessna Citation M2",
+      "video_url": "https://www.youtube.com/embed/soZpEW8yCDc?rel=0&showinfo=0&autoplay=0",
+      "description": " The Citation M2 is a light jet with a range of over 1,400 miles, making it well-suited for short- to medium-range trips. It has a spacious and luxurious interior, as well as advanced automation systems that allow for single-pilot operation.",
+      "key_characteristics": [],
+      "range_miles": "1300",
+      "passengers": "6",
+      "estimated_market_price": "$2 - $4 million",
+      "manufacturer_website": "https://www.txtav.com/"
+    },
+    {
+      "name": "Cessna Citation Mustang",
+      "video_url": "https://www.youtube.com/embed/E5-MLwHU58s?rel=0&showinfo=0&autoplay=0",
+      "description": " The Citation Mustang is a light jet with a range of over 1,000 miles, making it well-suited for short-range trips. It has a spacious and luxurious interior, as well as advanced automation systems that allow for single-pilot operation.",
+      "key_characteristics": [],
+      "range_miles": "1150",
+      "passengers": "4",
+      "estimated_market_price": "$1.5 - $3 million",
+      "manufacturer_website": "https://www.txtav.com/"
+    },
+    {
+      "name": "HondaJet",
+      "video_url": "https://www.youtube.com/embed/rGL7zxkmasI?rel=0&showinfo=0&autoplay=0",
+      "description": " The HondaJet is a light jet with a range of over 1,400 miles, making it well-suited for short- to medium-range trips. It has a spacious and luxurious interior, as well as advanced automation systems that allow for single-pilot operation.",
+      "key_characteristics": [],
+      "range_miles": "1400",
+      "passengers": "4 - 6",
+      "estimated_market_price": "$5 - $\" million",
+      "manufacturer_website": "https://www.hondajet.com/"
+    },
+    {
+      "name": "Piaggio P180 Avanti",
+      "video_url": "https://www.youtube.com/embed/bdAvJcrirTo?rel=0&showinfo=0&autoplay=0",
+      "description": " The Piaggio P180 Avanti is a mid-sized private jet with a range of over 1,800 miles, making it well-suited for medium-range trips. It has a spacious and luxurious interior, as well as advanced automation systems that allow for single-pilot operation.",
+      "key_characteristics": [],
+      "range_miles": "1400",
+      "passengers": "6 - 8",
+      "estimated_market_price": "$3 - $5 million",
+      "manufacturer_website": "https://www.piaggioaerospace.com/"
+    },
+    {
+      "name": "Beechcraft Premier",
+      "video_url": "https://www.youtube.com/embed/Jg-RndENS0c?rel=0&showinfo=0&autoplay=0",
+      "description": " The Beechcraft Premier is a light jet with a range of over 1,300 miles, making it well-suited for short- to medium-range trips. It has a spacious and luxurious interior, as well as advanced automation systems that allow for single-pilot operation.",
+      "key_characteristics": [],
+      "range_miles": "1300",
+      "passengers": "6",
+      "estimated_market_price": "$1.5 - $3 million",
+      "manufacturer_website": "https://www.txtav.com/"
+    },
+    {
+      "name": "Eclipse 550",
+      "video_url": "https://www.youtube.com/embed/3TVDFYdInQ4?rel=0&showinfo=0&autoplay=0",
+      "description": " The Eclipse 550 is a light jet with a range of over 1,200 miles, making it well-suited for short-range trips. It has a spacious and luxurious interior, as well as advanced automation systems that allow for single-pilot operation.",
+      "key_characteristics": [],
+      "range_miles": "1125",
+      "passengers": "4 - 5",
+      "estimated_market_price": "$1 - $2 million",
+      "manufacturer_website": "https://www.eclipseaviation.com/"
+    },
+    {
+      "name": "Raytheon Hawker 800",
+      "video_url": "https://www.youtube.com/embed/EkjLL6uZHX8?rel=0&showinfo=0&autoplay=0",
+      "description": " The Raytheon Hawker 800 is a mid-sized private jet with a range of over 2,500 miles, making it well-suited for medium- to long-range trips. It has a spacious and luxurious interior, as well as advanced automation systems that allow for single-pilot operation.",
+      "key_characteristics": [],
+      "range_miles": "2400",
+      "passengers": "8 - 9",
+      "estimated_market_price": "$5 - $7 million",
+      "manufacturer_website": "https://www.txtav.com/"
+    },
+    {
+      "name": "Embraer Legacy 450",
+      "video_url": "https://www.youtube.com/embed/uc1Yw2du1H0?rel=0&showinfo=0&autoplay=0",
+      "description": " The Legacy 450 is a mid-sized private jet with a range of over 3,000 miles, making it well-suited for medium-range trips. It has a spacious and luxurious interior, as well as advanced automation systems that allow for single-pilot operation.",
+      "key_characteristics": [],
+      "range_miles": "3250",
+      "passengers": "9",
+      "estimated_market_price": "$10 - $12 million",
+      "manufacturer_website": "https://www.embraer.com/"
+    },
+    {
+      "name": "Raytheon Hawker 700",
+      "video_url": "https://www.youtube.com/embed/_GRc1i2A8Tw?rel=0&showinfo=0&autoplay=0",
+      "description": " The Raytheon Hawker 700 is a mid-sized private jet with a range of over 2,000 miles, making it well-suited for medium-range trips. It has a spacious and luxurious interior, as well as advanced automation systems that allow for single-pilot operation.",
+      "key_characteristics": [],
+      "range_miles": "2300",
+      "passengers": "8 - 9",
+      "estimated_market_price": "$5 - $7 million",
+      "manufacturer_website": "https://www.txtav.com/"
+    },
+    {
+      "name": "Cessna Citation CJ1",
+      "description": " The Citation CJ1 is a light jet with a range of over 1,400 miles, making it well-suited for short- to medium-range trips. It has a spacious and luxurious interior, as well as advanced automation systems that allow for single-pilot operation.",
+      "key_characteristics": [],
+      "range_miles": "1650",
+      "passengers": "5 - 6",
+      "estimated_market_price": "$2 - $4 million",
+      "manufacturer_website": "https://www.txtav.com/"
+    },
+    {
+      "name": "Cessna Citation CJ4",
+      "video_url": "https://www.youtube.com/embed/J1t2vCsT7Zk?rel=0&showinfo=0&autoplay=0",
+      "description": " The Citation CJ4 is a mid-sized private jet with a range of over 3,000 miles, making it well-suited for medium-range trips. It has a spacious and luxurious interior, as well as advanced automation systems that allow for single-pilot operation.",
+      "key_characteristics": [],
+      "range_miles": "2100",
+      "passengers": "8 - 9",
+      "estimated_market_price": "$4 - $6 million",
+      "manufacturer_website": "https://www.txtav.com/"
+    },
+    {
+      "name": "Raytheon Hawker 400XP",
+      "description": " The Hawker 400XP is a light jet with a range of over 1,500 miles, making it well-suited for short- to medium-range trips. It has a spacious and luxurious interior, as well as advanced automation systems that allow for single-pilot operation.",
+      "key_characteristics": [],
+      "range_miles": "1800",
+      "passengers": "6 - 7",
+      "estimated_market_price": "$2 - $4 million",
+      "manufacturer_website": "https://www.txtav.com/"
+    },
+    {
+      "name": "Cessna Citation XLS",
+      "video_url": "https://www.youtube.com/embed/ccrk9MCbT98?rel=0&showinfo=0&autoplay=0",
+      "description": " The Citation XLS is a mid-sized private jet with a range of over 2,000 miles, making it well-suited for medium-range trips. It has a spacious and luxurious interior, as well as advanced automation systems that allow for single-pilot operation.",
+      "key_characteristics": [],
+      "range_miles": "1800",
+      "passengers": "8 - 9",
+      "estimated_market_price": "$3 - $5 million",
+      "manufacturer_website": "https://www.txtav.com/"
+    },
+    {
+      "name": "Raytheon Hawker 1000",
+      "video_url": "https://www.youtube.com/embed/HY0LiEo5krQ?rel=0&showinfo=0&autoplay=0",
+      "description": " The Hawker 1000 is a mid-sized private jet with a range of over 3,000 miles, making it well-suited for medium-range trips. It has a spacious and luxurious interior, as well as advanced automation systems that allow for single-pilot operation.",
+      "key_characteristics": [],
+      "range_miles": "3500",
+      "passengers": "10",
+      "estimated_market_price": "$7 - $9 million",
+      "manufacturer_website": "https://www.txtav.com/"
+    },
+    {
+      "name": "Dassault Falcon 50",
+      "video_url": "https://www.youtube.com/embed/lBPJclFsBnI?rel=0&showinfo=0&autoplay=0",
+      "description": " The Falcon 50 is a mid-sized private jet with a range of over 3,000 miles, making it well-suited for medium-range trips. It has a spacious and luxurious interior, as well as advanced automation systems that allow for single-pilot operation.",
+      "key_characteristics": [],
+      "range_miles": "3700",
+      "passengers": "9 - 11",
+      "estimated_market_price": "$5 - $7 million",
+      "manufacturer_website": "https://www.dassaultfalcon.com/"
+    },
+    {
+      "name": "Learjet 35",
+      "video_url": "https://www.youtube.com/embed/N_ClZVPfbZA?rel=0&showinfo=0&autoplay=0",
+      "description": " The Learjet 35 is a light jet with a range of over 1,500 miles, making it well-suited for short- to medium-range trips. It has a spacious and luxurious interior, as well as advanced automation systems that allow for single-pilot operation.",
+      "key_characteristics": [],
+      "range_miles": "1700",
+      "passengers": "7",
+      "estimated_market_price": "$1 - $2 million",
+      "manufacturer_website": "https://www.txtav.com/"
+    },
+    {
+      "name": "Cessna Citation Bravo",
+      "video_url": "https://www.youtube.com/embed/pK_9ryoFoRg?rel=0&showinfo=0&autoplay=0",
+      "description": " The Citation Bravo is a mid-sized private jet with a range of over 2,000 miles, making it well-suited for medium-range trips. It has a spacious and luxurious interior, as well as advanced automation systems that allow for single-pilot operation.",
+      "key_characteristics": [],
+      "range_miles": "1800",
+      "passengers": "8 - 9",
+      "estimated_market_price": "$2 - $4 million",
+      "manufacturer_website": "https://www.txtav.com/"
+    },
+    {
+      "name": "Cessna Citation Encore",
+      "video_url": "https://www.youtube.com/embed/2QFXPeP31Hc?rel=0&showinfo=0&autoplay=0",
+      "description": " The Citation Encore is a mid-sized private jet with a range of over 2,000 miles, making it well-suited for medium-range trips. It has a spacious and luxurious interior, as well as advanced automation systems that allow for single-pilot operation.",
+      "key_characteristics": [],
+      "range_miles": "1800",
+      "passengers": "8 - 9",
+      "estimated_market_price": "$2 - $4 million",
+      "manufacturer_website": "https://www.txtav.com/"
+    },
+    {
+      "name": "Raytheon Hawker 800XP",
+      "video_url": "https://www.youtube.com/embed/xamT7Qqgn7c?rel=0&showinfo=0&autoplay=0",
+      "description": " The Hawker 800XP is a mid-sized private jet with a range of over 2,500 miles, making it well-suited for medium- to long-range trips. It has a spacious and luxurious interior, as well as advanced automation systems that allow for single-pilot operation.",
+      "key_characteristics": [],
+      "range_miles": "2400",
+      "passengers": "8 - 9",
+      "estimated_market_price": "$5 - $7 million",
+      "manufacturer_website": "https://www.txtav.com/"
+    },
+    {
+      "name": "Cessna Citation Sovereign",
+      "video_url": "https://www.youtube.com/embed/sq3KJL-eth0?rel=0&showinfo=0&autoplay=0",
+      "description": " The Citation Sovereign is a mid-sized private jet with a range of over 3,000 miles, making it well-suited for medium-range trips. It has a spacious and luxurious interior, as well as advanced automation systems that allow for single-pilot operation.",
+      "key_characteristics": [],
+      "range_miles": "3100",
+      "passengers": "8 - 10",
+      "estimated_market_price": "$4 - $6 million",
+      "manufacturer_website": "https://www.txtav.com/"
+    },
+    {
+      "name": "Embraer Legacy 600",
+      "video_url": "https://www.youtube.com/embed/LEp25ebtUTw?rel=0&showinfo=0&autoplay=0",
+      "description": " The Legacy 600 is a mid-sized private jet with a range of over 3,000 miles, making it well-suited for medium-range trips. It has a spacious and luxurious interior, as well as advanced automation systems that allow for single-pilot operation.",
+      "key_characteristics": [],
+      "range_miles": "4000",
+      "passengers": "13",
+      "estimated_market_price": "$15 - $18 million",
+      "manufacturer_website": "https://www.embraer.com/"
+    },
+    {
+      "name": "Dassault Falcon 2000",
+      "video_url": "https://www.youtube.com/embed/CUfvR6zJrY8?rel=0&showinfo=0&autoplay=0",
+      "description": " The Falcon 2000 is a mid-sized private jet with a range of over 3,000 miles, making it well-suited for medium-range trips. It has a spacious and luxurious interior, as well as advanced automation systems that allow for single-pilot operation.",
+      "key_characteristics": [],
+      "range_miles": "3450",
+      "passengers": "8 - 10",
+      "estimated_market_price": "$10 - $12 million",
+      "manufacturer_website": "https://www.dassaultfalcon.com/"
+    },
+    {
+      "name": "Dassault Falcon 900",
+      "video_url": "https://www.youtube.com/embed/CUrlhFoR_u4?rel=0&showinfo=0&autoplay=0",
+      "description": "The Falcon 900 is a long-range private jet with a range of over 4,000 miles, making it well-suited for long-distance travel. It has a spacious and luxurious interior, as well as advanced automation systems that allow for single-pilot operation.",
+      "key_characteristics": [],
+      "range_miles": "4000",
+      "passengers": "12 - 14",
+      "estimated_market_price": "$15 - $18 million",
+      "manufacturer_website": "https://www.dassaultfalcon.com/"
+    }
+  ]
+}
